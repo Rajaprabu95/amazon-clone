@@ -1,0 +1,24 @@
+install extenstion prettier:
+    check format on save
+
+react-currency-format
+
+npm i @stripe/stripe-js
+npm i @stripe/react-stripe-js
+
+To Deploy frontend
+    firebase login
+
+    firebase init
+
+    npm run build
+
+    firebase deploy
+
+To Start Backend:
+    firebase emulators:start
+
+To  Deploy backend:
+    firebase init
+
+    firebase deploy --only functions
